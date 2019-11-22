@@ -1,0 +1,30 @@
+COMANDOS GIT
+
+1) git clone <url>
+	copia o repositório da nuvem
+	
+2) git add .
+	adiciona as mudanças na linha do tempo
+	
+3) git commit -m "<mudanças feitas>"
+	cria um nome para mudanças
+	
+4) git push
+	envia as mudanças para a nuvem
+
+5) git pull
+	baixa as mudanças da nuvem
+
+	* SEMPRE QUE FOR ENVIAR ALGUMA COISA PRIMEIRO DAR O GIT PULL PARA DEPOIS O GIT PUSH
+	
+6) git status
+	mostra as mudanças locais
+	
+7) git fetch
+	baixa as mudanças da nuvem
+	
+8) como alterar o usuário e e-mail
+git config --global user.email "rickspavier1993@gmail.com"
+git config --global user.name "richardspavier"
+
+	
